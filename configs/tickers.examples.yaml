@@ -1,0 +1,15 @@
+# Example universe of tickers for demo/development
+universe:
+  - AAPL
+  - MSFT
+  - TSLA
+
+name_map:
+  AAPL: "Apple Inc."
+  MSFT: "Microsoft Corporation"
+  TSLA: "Tesla, Inc."
+
+aliases:
+  AAPL: ["Apple", "Apple Inc", "AAPL"]
+  MSFT: ["Microsoft", "MSFT"]
+  TSLA: ["Tesla", "TSLA"]

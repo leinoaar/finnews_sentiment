@@ -1,0 +1,25 @@
+# Core data libraries
+pandas
+numpy
+
+# Database and ORM
+sqlalchemy
+
+# Finance data
+yfinance
+
+# RSS parsing
+feedparser
+
+# Config parsing
+pyyaml
+
+# Settings management
+pydantic
+pydantic-settings
+
+# for sentiment analysis 
+nltk
+
+# for saving datasets
+pyarrow
