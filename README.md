@@ -18,22 +18,39 @@ finnews_sentiment/
 │
 
 ├── configs/                # YAML configs for tickers and sources
+
 │   ├── tickers.example.yaml
+
 │   └── sources.example.yaml
+
 │
+
 ├── finnews_sentiment/
+
 │   ├── etl/                # Data ingestion and enrichment scripts
+
 │   ├── features/           # Feature building and sentiment computation
+
 │   ├── db.py               # SQLAlchemy database connection
+
 │   └── settings.py
+
 │
+
 ├── data/                   # (ignored) local data storage
+
 ├── figures/                # (ignored) plots and outputs
+
 ├── notebooks/              # exploratory notebooks
+
 │
+
 ├── requirements.txt
+
 ├── pyproject.toml
+
 ├── Makefile
+
 └── README.md
 
 ## Installation
@@ -64,6 +81,7 @@ Collecting more data and performing larger statistical analysis on it.
 
 ### Licence
 This project is licensed under the MIT License.
+
 
 
 
