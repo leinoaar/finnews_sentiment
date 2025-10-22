@@ -14,7 +14,9 @@ Currently, the project is in its data collection phase. Once sufficient data has
 
 ## Structure
 finnews_sentiment/
+
 │
+
 ├── configs/                # YAML configs for tickers and sources
 │   ├── tickers.example.yaml
 │   └── sources.example.yaml
@@ -62,6 +64,7 @@ Collecting more data and performing larger statistical analysis on it.
 
 ### Licence
 This project is licensed under the MIT License.
+
 
 
 
